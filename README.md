@@ -6,7 +6,7 @@
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/RoadApp/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
-  <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
+  <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
 </p>
 
 The app looks into the API request data of [weather conditions](https://eismoinfo.lt/weather-conditions-service?id=%271166%27)
